@@ -1,0 +1,25 @@
+{
+  "flights": [
+    {
+      "id": 0,
+      "departureAirport": "IST",
+      "arrivalAirport": "JFK",
+      "departureDate": "2023-09-01",
+      "arrivalDate": "2023-09-02"
+    },
+    {
+      "id": 1,
+      "departureAirport": "ATL",
+      "arrivalAirport": "LHR",
+      "departureDate": "2023-09-03",
+      "arrivalDate": "2023-09-04"
+    },
+    {
+      "id": 2,
+      "departureAirport": "CDG",
+      "arrivalAirport": "HND",
+      "departureDate": "2023-09-05",
+      "arrivalDate": "2023-09-06"
+    }
+  ]
+}
